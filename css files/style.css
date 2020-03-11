@@ -1,0 +1,165 @@
+html{
+  scroll-behavior: auto;
+}
+body{
+  font: arial,helvetica,sans-serif;
+  font-size: 15px;
+  background-color: white;
+  width: 90%;
+  margin:0 auto;
+
+}
+p{
+  font-family: fantasy;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+
+#container{
+width: 80%;
+margin: 0 auto;
+
+
+
+ }
+.t1{
+    text-align: center;
+    color: #2f8488;
+    font-size: 14px;
+    border-width: 50%;
+    font-weight: bold;
+      border-bottom: #bbbbbb 3px solid;
+      border-top:  #bbbbbb 3px solid;
+      background-image: linear-gradient(#4dc9ff,white),radial-gradient(circle at top left,#bbbbbb,#19d7f8);
+      background-origin: border-box;
+      background-clip: content-box,border-box;
+        position: fixed;
+        width: 90%;
+        min-height: 60px;
+        padding-top: 20px;
+    }
+     #yeah nav{width: 90%;
+      overflow: hidden;
+      position: fixed;
+      top: auto;
+
+    }
+   h3{
+    font: arial;
+     text-align:center ;font-size: 25px;
+
+  }
+
+#navigation{
+  width: 80%;
+  margin: 0 auto;
+  background:
+
+}
+   ul{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+  }
+   ul li a{
+    color: grey;
+  }
+   li{
+    display: inline-block;
+    font-weight: 900;
+
+  }
+   a{
+    text-decoration: none;
+    width: 100px;
+    display: block;
+    padding: 20px;
+  }
+
+   ul li:hover a{
+    background-color:aqua;
+    transform: scale(0.6);
+
+  }
+#container #top nav ul li a{
+  color: white;
+}
+#container #top nav ul li a fas{
+  width: 100px;
+}
+
+
+#container #top ul li:hover a{
+  background-color:black;
+
+}
+/*#Home{
+  height: 700px;
+  background:white;
+  display: inline-block;
+  width: 100%;
+}
+*/
+#about{
+  height: 700px;
+  background: white;
+  display: inline-block;
+  width: 100%;
+}
+
+#services{
+  height: 700px;
+  background: white;
+  display: inline-block;
+  width: 100%;
+}
+#Email{
+  height: 700px;
+  background: skyblue;
+  display: inline-block;
+  width: 100%;
+}
+h1{
+  margin: 100px;
+  text-align: center;
+  padding: 0;
+}
+ #social a{
+  background-color: white;
+  line-height: 40px;
+  margin: 0 5px;
+  color: black;
+  display: inline-block;
+}
+    #social :hover a{
+      background-color:red;
+}
+#social  :hover a{
+  background-color:black;
+}
+#social{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+div#photo{
+
+  margin-left: -12%;
+  margin-right: inherit;
+padding: 20px;
+padding-top: 100px;
+}
+
+
+footer{
+  padding-top: 20px;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  color: #ffffff;
+  background-color: grey;
+  text-align: center;
+}
